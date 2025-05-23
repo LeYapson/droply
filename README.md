@@ -1,1 +1,1 @@
-# Droply, the ultimate file sharing tool
+# Droply, a simple file sharing service
